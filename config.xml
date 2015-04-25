@@ -12,15 +12,9 @@
         This app is intended to help book readers keep track of their places in books, alog with a few other special features.
     </description>
 
-    <author href="https://build.phonegap.com" email="support@phonegap.com">
+    <author href="#" email="ckight1@vikings.sjrstate.edu">
         Chad Kight
     </author>
-	<!--
-	<supports-screens android:anyDensity="true" android:resizeable="true" 
-    android:smallScreens="true" 
-    android:normalScreens="true" 
-    android:largeScreens="true" 
-    android:xlargeScreens="true" />-->
 	
 	<feature name="SplashScreen">
 		<param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
